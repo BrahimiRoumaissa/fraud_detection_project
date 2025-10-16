@@ -1,0 +1,2 @@
+"# fraud_detection_project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:BrahimiRoumaissa/fraud_detection_project.gitgit push -u origin main
+"# fraud_detection_project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:BrahimiRoumaissa/fraud_detection_project.gitgit push -u origin main
