@@ -45,7 +45,7 @@ This project implements a complete fraud detection pipeline that addresses real-
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fraud-detection-system.git
+git clone https://github.com/BrahimiRoumaissa/fraud-detection-system.git
 cd fraud-detection-system
 
 # Install dependencies
