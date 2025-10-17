@@ -192,9 +192,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or collaboration opportunities, please reach out through:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: brahimiroumaissa1@gmail.com
+- **LinkedIn**: brahimi-roumaissa-4515561bb 
 
 ## 🙏 Acknowledgments
 
